@@ -1,0 +1,16 @@
+{
+    "name": "promesas_ficheros",
+    "version": "1.0.0",
+    "description": "Trabajo con promesas: acceso a ficheros en NodeJS",
+    "main": "accesoDatos.js",
+    "type": "module",
+    "scripts": {
+	"test": "mocha"
+    },
+    "author": "Pedro Prieto",
+    "license": "GPL-3.0",
+    "devDependencies": {
+	"chai": "^4.3.6",
+	"mocha": "^10.0.0"
+    }
+}
